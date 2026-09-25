@@ -39,9 +39,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/ninja-build.com"
       - "C:/msys64/mingw64/bin/ninja-build.exe"
@@ -60,10 +63,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -100,9 +106,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/cc.com"
     found: "C:/msys64/mingw64/bin/cc.exe"
@@ -118,10 +127,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -159,10 +171,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -215,9 +230,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/ar.com"
     found: "C:/msys64/mingw64/bin/ar.exe"
@@ -233,10 +251,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -267,9 +288,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/ranlib.com"
     found: "C:/msys64/mingw64/bin/ranlib.exe"
@@ -285,10 +309,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -319,9 +346,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/strip.com"
     found: "C:/msys64/mingw64/bin/strip.exe"
@@ -337,10 +367,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -371,9 +404,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/ld.com"
     found: "C:/msys64/mingw64/bin/ld.exe"
@@ -389,10 +425,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -423,9 +462,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/nm.com"
     found: "C:/msys64/mingw64/bin/nm.exe"
@@ -441,10 +483,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -475,9 +520,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/objdump.com"
     found: "C:/msys64/mingw64/bin/objdump.exe"
@@ -493,10 +541,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -527,9 +578,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/objcopy.com"
     found: "C:/msys64/mingw64/bin/objcopy.exe"
@@ -545,10 +599,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -579,9 +636,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/readelf.com"
     found: "C:/msys64/mingw64/bin/readelf.exe"
@@ -597,10 +657,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -631,9 +694,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/dlltool.com"
     found: "C:/msys64/mingw64/bin/dlltool.exe"
@@ -649,10 +715,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -683,9 +752,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/addr2line.com"
     found: "C:/msys64/mingw64/bin/addr2line.exe"
@@ -701,10 +773,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -735,9 +810,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/tapi.com"
       - "C:/msys64/mingw64/bin/tapi.exe"
@@ -769,6 +847,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/tapi.com"
       - "C:/opencv/build/x64/vc16/bin/tapi.exe"
       - "C:/opencv/build/x64/vc16/bin/tapi"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/tapi.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/tapi.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/tapi"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/tapi.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/tapi.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/tapi"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/tapi.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/tapi.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/tapi"
@@ -778,6 +862,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
+      - "C:/Users/PC/AppData/Local/Python/bin/tapi.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/tapi.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -791,10 +878,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -828,9 +918,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/gcc-ar-16.2.com"
       - "C:/msys64/mingw64/bin/gcc-ar-16.2.exe"
@@ -862,6 +955,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2"
@@ -871,6 +970,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2"
       - "C:/msys64/mingw64/bin/gcc-ar-16.com"
       - "C:/msys64/mingw64/bin/gcc-ar-16.exe"
       - "C:/msys64/mingw64/bin/gcc-ar-16"
@@ -901,6 +1003,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16"
@@ -910,6 +1018,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16"
       - "C:/msys64/mingw64/bin/gcc-ar16.com"
       - "C:/msys64/mingw64/bin/gcc-ar16.exe"
       - "C:/msys64/mingw64/bin/gcc-ar16"
@@ -940,6 +1051,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16"
@@ -949,6 +1066,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16"
       - "C:/msys64/mingw64/bin/gcc-ar.com"
     found: "C:/msys64/mingw64/bin/gcc-ar.exe"
     search_context:
@@ -963,10 +1083,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1000,9 +1123,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.2.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.2.exe"
@@ -1034,6 +1160,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2"
@@ -1043,6 +1175,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.exe"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16"
@@ -1073,6 +1208,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16"
@@ -1082,6 +1223,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16"
       - "C:/msys64/mingw64/bin/gcc-ranlib16.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib16.exe"
       - "C:/msys64/mingw64/bin/gcc-ranlib16"
@@ -1112,6 +1256,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16"
@@ -1121,6 +1271,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16"
       - "C:/msys64/mingw64/bin/gcc-ranlib.com"
     found: "C:/msys64/mingw64/bin/gcc-ranlib.exe"
     search_context:
@@ -1135,10 +1288,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1180,10 +1336,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1221,10 +1380,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -1280,9 +1442,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/gcc-ar-16.2.com"
       - "C:/msys64/mingw64/bin/gcc-ar-16.2.exe"
@@ -1314,6 +1479,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.2"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.2"
@@ -1323,6 +1494,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.2"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.2"
       - "C:/msys64/mingw64/bin/gcc-ar-16.com"
       - "C:/msys64/mingw64/bin/gcc-ar-16.exe"
       - "C:/msys64/mingw64/bin/gcc-ar-16"
@@ -1353,6 +1527,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar-16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar-16"
@@ -1362,6 +1542,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar-16"
       - "C:/msys64/mingw64/bin/gcc-ar16.com"
       - "C:/msys64/mingw64/bin/gcc-ar16.exe"
       - "C:/msys64/mingw64/bin/gcc-ar16"
@@ -1392,6 +1575,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ar16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ar16"
@@ -1401,6 +1590,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ar16"
       - "C:/msys64/mingw64/bin/gcc-ar.com"
     found: "C:/msys64/mingw64/bin/gcc-ar.exe"
     search_context:
@@ -1415,10 +1607,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1452,9 +1647,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
     searched_directories:
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.2.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.2.exe"
@@ -1486,6 +1684,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.2"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.2"
@@ -1495,6 +1699,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.2"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.2"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16.exe"
       - "C:/msys64/mingw64/bin/gcc-ranlib-16"
@@ -1525,6 +1732,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib-16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib-16"
@@ -1534,6 +1747,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib-16"
       - "C:/msys64/mingw64/bin/gcc-ranlib16.com"
       - "C:/msys64/mingw64/bin/gcc-ranlib16.exe"
       - "C:/msys64/mingw64/bin/gcc-ranlib16"
@@ -1564,6 +1780,12 @@ events:
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16.com"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16.exe"
       - "C:/opencv/build/x64/vc16/bin/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/gcc-ranlib16"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16.com"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/gcc-ranlib16"
@@ -1573,6 +1795,9 @@ events:
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.com"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.exe"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16.com"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16.exe"
+      - "C:/Users/PC/AppData/Local/Python/bin/gcc-ranlib16"
       - "C:/msys64/mingw64/bin/gcc-ranlib.com"
     found: "C:/msys64/mingw64/bin/gcc-ranlib.exe"
     search_context:
@@ -1587,10 +1812,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1624,9 +1852,12 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/PC/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/PC/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/PC/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/PC/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/PC/AppData/Local/Python/bin/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -1654,10 +1885,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\opencv\\build\\x64\\vc16\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\msys64\\mingw64\\bin"
+        - "C:\\Users\\PC\\AppData\\Local\\Python\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/LAB3"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -1673,8 +1907,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-h5grlh"
-      binary: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-h5grlh"
+      source: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-eqrdyr"
+      binary: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-eqrdyr"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -1684,10 +1918,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-h5grlh'
+        Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-eqrdyr'
         
-        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_d220d
-        [1/2] C:\\msys64\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_17e32
+        [1/2] C:\\msys64\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\cc.exe
         Target: x86_64-w64-mingw32
@@ -1695,8 +1929,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.2.0 (Rev3, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_d220d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccaxysPk.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_17e32.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccWoRPEl.s
         GNU C23 (Rev3, Built by MSYS2 project) version 16.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.28-GMP
         
@@ -1713,13 +1947,13 @@ events:
          C:/msys64/mingw64/bin/../../mingw64/include
         End of search list.
         Compiler executable checksum: 0cd2d9fa6453d77e7a6d65e57e995577
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccaxysPk.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccWoRPEl.s
         GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/msys64/mingw64/bin/../../mingw64/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../;C:/msys64/mingw64/bin/../../mingw64/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj -o cmTC_d220d.exe -Wl,--out-implib,libcmTC_d220d.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj -o cmTC_17e32.exe -Wl,--out-implib,libcmTC_17e32.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\cc.exe
         COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe
@@ -1730,12 +1964,12 @@ events:
         gcc version 16.2.0 (Rev3, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/msys64/mingw64/bin/../../mingw64/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../;C:/msys64/mingw64/bin/../../mingw64/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d220d.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d220d.'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_17e32.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_17e32.'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         collect2 version 16.2.0
-        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         GNU ld (GNU Binutils) 2.47.20260726
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d220d.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d220d.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_17e32.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_17e32.'
         
       exitCode: 0
   -
@@ -1768,10 +2002,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-h5grlh']
+        ignore line: [Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-eqrdyr']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_d220d]
-        ignore line: [[1/2] C:\\msys64\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_17e32]
+        ignore line: [[1/2] C:\\msys64\\mingw64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\cc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -1779,8 +2013,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.2.0 (Rev3  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_d220d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccaxysPk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_17e32.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccWoRPEl.s]
         ignore line: [GNU C23 (Rev3  Built by MSYS2 project) version 16.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.28-GMP]
         ignore line: []
@@ -1797,8 +2031,8 @@ events:
         ignore line: [ C:/msys64/mingw64/bin/../../mingw64/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 0cd2d9fa6453d77e7a6d65e57e995577]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccaxysPk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccWoRPEl.s]
         ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726]
         ignore line: [COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/]
@@ -1811,8 +2045,8 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
         ignore line: [C:/msys64/mingw64/bin/../../mingw64/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj -o cmTC_d220d.exe -Wl --out-implib libcmTC_d220d.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj -o cmTC_17e32.exe -Wl --out-implib libcmTC_17e32.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\cc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe]
@@ -1832,13 +2066,13 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
         ignore line: [C:/msys64/mingw64/bin/../../mingw64/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d220d.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d220d.']
-        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_17e32.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_17e32.']
+        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -1861,7 +2095,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_d220d.exe] ==> ignore
+          arg [cmTC_17e32.exe] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0]
@@ -1873,9 +2107,9 @@ events:
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..]
           arg [-LC:/msys64/mingw64/bin/../../mingw64/lib] ==> dir [C:/msys64/mingw64/bin/../../mingw64/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_d220d.dll.a] ==> ignore
+          arg [libcmTC_17e32.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -1900,9 +2134,9 @@ events:
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
         ignore line: [collect2 version 16.2.0]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc8vzZaz.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_d220d.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_d220d.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_d220d.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\cc2BzZzy.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_17e32.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_17e32.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_17e32.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
         linker tool for 'C': C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe -m;i386pep
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -1945,8 +2179,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-xjzq1e"
-      binary: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-xjzq1e"
+      source: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-dhw6kv"
+      binary: "C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-dhw6kv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1957,10 +2191,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-xjzq1e'
+        Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-dhw6kv'
         
-        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_2e2d3
-        [1/2] C:\\msys64\\mingw64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_0cd2c
+        [1/2] C:\\msys64\\mingw64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -1968,8 +2202,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.2.0 (Rev3, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_2e2d3.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\cc5VtiEg.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_0cd2c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccaudoZj.s
         GNU C++20 (Rev3, Built by MSYS2 project) version 16.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.28-GMP
         
@@ -1992,13 +2226,13 @@ events:
          C:/msys64/mingw64/bin/../../mingw64/include
         End of search list.
         Compiler executable checksum: b15794b24f9167c20083aef153e25b90
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PC\\AppData\\Local\\Temp\\cc5VtiEg.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccaudoZj.s
         GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/msys64/mingw64/bin/../../mingw64/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../;C:/msys64/mingw64/bin/../../mingw64/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_2e2d3.exe -Wl,--out-implib,libcmTC_2e2d3.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_0cd2c.exe -Wl,--out-implib,libcmTC_0cd2c.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe
@@ -2009,12 +2243,12 @@ events:
         gcc version 16.2.0 (Rev3, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/msys64/mingw64/bin/../../mingw64/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../;C:/msys64/mingw64/bin/../../mingw64/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2e2d3.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_2e2d3.'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0cd2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0cd2c.'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         collect2 version 16.2.0
-        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
         GNU ld (GNU Binutils) 2.47.20260726
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2e2d3.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_2e2d3.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0cd2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0cd2c.'
         
       exitCode: 0
   -
@@ -2053,10 +2287,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-xjzq1e']
+        ignore line: [Change Dir: 'C:/Programming autumn/LAB 3/build/CMakeFiles/CMakeScratch/TryCompile-dhw6kv']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_2e2d3]
-        ignore line: [[1/2] C:\\msys64\\mingw64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_0cd2c]
+        ignore line: [[1/2] C:\\msys64\\mingw64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2064,8 +2298,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.2.0 (Rev3  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_2e2d3.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\cc5VtiEg.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -isysroot C:/msys64/mingw64/bin/../../mingw64 -D_REENTRANT C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_0cd2c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\PC\\AppData\\Local\\Temp\\ccaudoZj.s]
         ignore line: [GNU C++20 (Rev3  Built by MSYS2 project) version 16.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.28-GMP]
         ignore line: []
@@ -2088,8 +2322,8 @@ events:
         ignore line: [ C:/msys64/mingw64/bin/../../mingw64/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b15794b24f9167c20083aef153e25b90]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PC\\AppData\\Local\\Temp\\cc5VtiEg.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\PC\\AppData\\Local\\Temp\\ccaudoZj.s]
         ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726]
         ignore line: [COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/]
@@ -2102,8 +2336,8 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
         ignore line: [C:/msys64/mingw64/bin/../../mingw64/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_2e2d3.exe -Wl --out-implib libcmTC_2e2d3.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\mingw64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_0cd2c.exe -Wl --out-implib libcmTC_0cd2c.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe]
@@ -2123,13 +2357,13 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
         ignore line: [C:/msys64/mingw64/bin/../../mingw64/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2e2d3.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_2e2d3.']
-        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0cd2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_0cd2c.']
+        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2152,7 +2386,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_2e2d3.exe] ==> ignore
+          arg [cmTC_0cd2c.exe] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0]
@@ -2164,9 +2398,9 @@ events:
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..]
           arg [-LC:/msys64/mingw64/bin/../../mingw64/lib] ==> dir [C:/msys64/mingw64/bin/../../mingw64/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_2e2d3.dll.a] ==> ignore
+          arg [libcmTC_0cd2c.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2192,9 +2426,9 @@ events:
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
         ignore line: [collect2 version 16.2.0]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
-        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccJCyEer.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_2e2d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_2e2d3.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_2e2d3.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
+        link line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\PC\\AppData\\Local\\Temp\\ccFJ9z1p.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/msys64/mingw64/bin/../../mingw64 -m i386pep -Bdynamic -o cmTC_0cd2c.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/msys64/mingw64/bin/../../mingw64/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -LC:/msys64/mingw64/bin/../../mingw64/lib -v CMakeFiles/cmTC_0cd2c.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_0cd2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
         linker tool for 'CXX': C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe -m;i386pep
         remove lib [msvcrt]
         remove lib [msvcrt]
