@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Programming autumn/LAB 3/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -I\"C:/Programming autumn/LAB 3\" -g -o CMakeFiles\\LAB3.dir\\main.cpp.obj -c \"C:\\Programming autumn\\LAB 3\\main.cpp\"",
-  "file": "C:/Programming autumn/LAB 3/main.cpp",
-  "output": "C:/Programming autumn/LAB 3/build/CMakeFiles/LAB3.dir/main.cpp.obj"
-}
-]

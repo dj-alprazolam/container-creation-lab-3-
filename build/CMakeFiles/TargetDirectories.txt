@@ -1,3 +1,0 @@
-C:/Programming autumn/LAB 3/build/CMakeFiles/LAB3.dir
-C:/Programming autumn/LAB 3/build/CMakeFiles/edit_cache.dir
-C:/Programming autumn/LAB 3/build/CMakeFiles/rebuild_cache.dir
