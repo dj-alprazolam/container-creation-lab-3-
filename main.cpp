@@ -17,39 +17,89 @@ a.push_back(9);
 
 for (size_t i = 0; i < a.size(); i++)
 {
-    std::cout<< a[i] << " " << std::endl;
+    std::cout<< a[i] << " ";
 }
-
-std::cout << "------ERACE-------"<< std::endl;
+std::cout << '\n';
+std::cout << "-------ERACE-------"<< std::endl;
 a.erace(3);
 a.erace(5);
 a.erace(7);
 
 for (size_t i = 0; i < a.size(); i++)
 {
-    std::cout<< a[i] << " " << std::endl;
+    std::cout<< a[i] << " " ;
 }
-
+std::cout << '\n';
 std::cout<<"---------Push_front------------"<<std::endl;
 a.push_front(10);
 for (size_t i = 0; i < a.size(); i++)
 {
-    std::cout<< a[i] << " " << std::endl;
+    std::cout<< a[i] << " ";
 }
-
+std::cout << '\n';
 std::cout <<"---------Insert---------------"<< std::endl;
-
 a.insert(4,20);
 for (size_t i = 0; i < a.size(); i++)
 {
-    std::cout<< a[i] << " " << std::endl;
+    std::cout<< a[i] << " " ;
 }
-
+std::cout << '\n';
 std::cout <<"---------Push_back---------------"<< std::endl;
 a.push_back(30);
 for (size_t i = 0; i < a.size(); i++)
 {
-    std::cout<< a[i] << " " << std::endl;
+    std::cout<< a[i] << " " ;
 }
+std::cout << '\n';
 
+
+std::cout << "_____________List________________" << std::endl;
+
+list<int> b;
+b.push_back(0);
+b.push_back(1);
+b.push_back(2);
+b.push_back(3);
+b.push_back(4);
+b.push_back(5);
+b.push_back(6);
+b.push_back(7);
+b.push_back(8);
+b.push_back(9);
+for (size_t i = 0; i < b.size() ; i++)
+{
+    std::cout << b[i] << " ";
+}
+std::cout << '\n';
+std::cout << "-------ERACE-------"<< std::endl;
+b.erase(3);
+b.erase(5);
+b.erase(7);
+
+for (size_t i = 0; i < b.size(); i++)
+{
+    std::cout<< b[i] << " " ;
+}
+std::cout << '\n';
+std::cout<<"---------Push_front------------"<<std::endl;
+b.push_front(10);
+for (size_t i = 0; i < b.size(); i++)
+{
+    std::cout<< b[i] << " ";
+}
+std::cout << '\n';
+std::cout <<"---------Insert---------------"<< std::endl;
+b.insert(4,20);
+for (size_t i = 0; i < b.size(); i++)
+{
+    std::cout<< b[i] << " " ;
+}
+std::cout << '\n';
+std::cout <<"---------Push_back---------------"<< std::endl;
+b.push_back(30);
+for (size_t i = 0; i < b.size(); i++)
+{
+    std::cout<< b[i] << " " ;
+}
+std::cout << '\n';
 }
