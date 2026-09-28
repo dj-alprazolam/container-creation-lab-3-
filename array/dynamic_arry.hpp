@@ -58,7 +58,7 @@ void dynamicarry<T>::push_back(const T &value)
 
 template<typename T> // erase
 void dynamicarry<T>::erace(size_t index){
-    if(sizearry < index){
+    if(sizearry <= index){
         throw std::out_of_range("Out in size");
     }
 
@@ -118,9 +118,9 @@ void dynamicarry<T>::insert(size_t index, const T &value){
         capacityarry = new_capacity;
     }
 
-    for (size_t i = index; i < sizearry - 1; ++i)
+    for (size_t i = sizearry; i > index ; --i)
     {
-        data[i] = std::move(data[i+1]);
+        data[i] = std::move(data[i-1]);
     }
 
     data[index] = value;

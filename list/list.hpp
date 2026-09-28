@@ -133,7 +133,7 @@ void list<T>::insert(size_t index, const T& value){
 
 template<typename T>
 void list<T>::erase(size_t index){
-    if (count < index)
+    if (count <= index)
     {
         throw std::out_of_range("Out in size");
     }
